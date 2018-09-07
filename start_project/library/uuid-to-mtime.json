@@ -355,8 +355,8 @@
     "relativePath": "scene"
   },
   "dfb3c9f8-ab16-4082-941f-3110e3782072": {
-    "asset": 1536286957436,
-    "meta": 1536286957477,
+    "asset": 1536314228473,
+    "meta": 1536314228502,
     "relativePath": "scene\\flappy bird.fire"
   },
   "dc2765c2-cd88-492b-80e4-6d627f636a67": {
@@ -740,12 +740,12 @@
     "relativePath": "flappy_bird_assets\\white.png"
   },
   "2930efa8-67ed-408a-a75a-54a82dc80700": {
-    "asset": 1536209453895,
+    "asset": 1536292641218,
     "meta": 1536209411744,
     "relativePath": "flappy_bird"
   },
   "a0d761ff-117d-4751-bdb0-a73950db2f9f": {
-    "asset": 1536209493602,
+    "asset": 1536289349362,
     "meta": 1536209422117,
     "relativePath": "flappy_bird\\scripts"
   },
@@ -770,7 +770,7 @@
     "relativePath": "flappy_bird\\scripts\\land\\land.js"
   },
   "138804ce-bfde-4966-87b8-7c2d457f2a51": {
-    "asset": 1536289347402,
+    "asset": 1536313583597,
     "meta": 1536289347408,
     "relativePath": "flappy_bird\\scripts\\bird"
   },
@@ -779,9 +779,14 @@
     "meta": 1536291860604,
     "relativePath": "flappy_bird\\scripts\\bird\\Bird.js"
   },
-  "37307e64-6f11-494b-b0f0-752f14d026c7": {
-    "asset": 1536301479954,
-    "meta": 1536301480007,
+  "1cd42bc3-eef1-4dd7-8c44-6ec3e2b12db7": {
+    "asset": 1536300908877,
+    "meta": 1536292641220,
+    "relativePath": "flappy_bird\\animate"
+  },
+  "fc94575f-e172-4a9b-b6c6-bcdb3c3f2e20": {
+    "asset": 1536314131249,
+    "meta": 1536314131302,
     "relativePath": "flappy_bird\\scripts\\bird\\bird.anim"
   }
 }

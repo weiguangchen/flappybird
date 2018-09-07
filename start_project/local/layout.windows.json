@@ -5,7 +5,7 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": -6,
+      "x": -8,
       "y": 0,
       "width": 1616,
       "height": 876,
@@ -92,24 +92,13 @@
       },
       "panels": [
         "hierarchy",
+        "console",
+        "timeline",
         "node-library",
         "inspector",
         "assets",
-        "scene",
-        "console",
-        "timeline"
+        "scene"
       ]
-    },
-    "about": {
-      "main": false,
-      "url": "app://editor/page/app-about.html",
-      "windowType": "dockable",
-      "x": 602,
-      "y": 348,
-      "width": 400,
-      "height": 200,
-      "layout": null,
-      "panels": []
     }
   },
   "panels": {
@@ -120,10 +109,10 @@
       "height": 574
     },
     "timeline": {
-      "x": 642,
-      "y": 161,
+      "x": 658,
+      "y": 48,
       "width": 908,
-      "height": 338
+      "height": 383
     },
     "console": {
       "x": 592,
