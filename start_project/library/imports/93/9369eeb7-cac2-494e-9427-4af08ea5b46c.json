@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_menu",
+    "texture": "2af8fffd-f5bb-47ee-bced-bb1501e8994f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      28
+    ]
+  }
+}

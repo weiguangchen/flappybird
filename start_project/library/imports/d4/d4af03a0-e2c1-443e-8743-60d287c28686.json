@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_day",
+    "texture": "d26b5866-bf63-475e-9585-bc1da3ca1c83",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      288,
+      512
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      288,
+      512
+    ]
+  }
+}

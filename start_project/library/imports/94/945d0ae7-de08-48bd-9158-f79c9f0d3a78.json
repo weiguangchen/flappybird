@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_resume",
+    "texture": "24110d21-f2aa-4048-a3e5-d9cb4a52b461",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      26,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      26,
+      28
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pipe_up",
+    "texture": "a786b280-1116-4b8b-bcc6-86eaa79dac9b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      52,
+      320
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      52,
+      320
+    ]
+  }
+}

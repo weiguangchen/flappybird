@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "brand_copyright",
+    "texture": "4b27c0bd-a190-4dcf-9802-10c6f6b1dbcd",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      122,
+      10
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      14
+    ]
+  }
+}

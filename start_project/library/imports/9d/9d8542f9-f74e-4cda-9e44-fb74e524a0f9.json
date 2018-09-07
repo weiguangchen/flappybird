@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blink_02",
+    "texture": "5bf193fc-cd39-4d08-a5e9-2b7f4e1e3f84",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      10,
+      9
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      10,
+      10
+    ]
+  }
+}

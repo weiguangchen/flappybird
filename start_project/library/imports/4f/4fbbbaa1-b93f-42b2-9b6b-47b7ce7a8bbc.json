@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "land",
+    "texture": "09577f6c-9775-471f-9759-7773aaab4738",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      336,
+      112
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      336,
+      112
+    ]
+  }
+}
