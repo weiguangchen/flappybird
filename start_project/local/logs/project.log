@@ -1,85 +1,57 @@
-2018-09-07T09:49:10.703Z - normal: Load ~/.CocosCreator/settings.json
-2018-09-07T09:49:10.708Z - normal: checking language setting...
-2018-09-07T09:49:10.709Z - normal: Language: zh
-2018-09-07T09:49:12.567Z - success: protocol editor-framework registered
-2018-09-07T09:49:12.567Z - success: protocol app registered
-2018-09-07T09:49:12.567Z - success: protocol theme registered
-2018-09-07T09:49:12.567Z - success: protocol packages registered
-2018-09-07T09:49:12.567Z - success: protocol unpack registerred
-2018-09-07T09:49:12.568Z - success: protocol disable-commonjs registerred
-2018-09-07T09:49:12.687Z - normal: connected!
-2018-09-07T09:49:12.691Z - normal: Check project D:\program\game\demo1\start_project
-2018-09-07T09:49:12.696Z - normal: Initializing project D:\program\game\demo1\start_project
-2018-09-07T09:49:12.701Z - normal: Initializing Cocos2d
-2018-09-07T09:49:13.657Z - normal: Initializing Asset Database
-2018-09-07T09:49:13.729Z - success: protocol uuid registerred
-2018-09-07T09:49:13.729Z - success: protocol db registerred
-2018-09-07T09:49:13.729Z - success: protocol thumbnail registerred
-2018-09-07T09:49:13.729Z - normal: Loading editor/builtin packages
-2018-09-07T09:49:13.926Z - success: assets loaded
-2018-09-07T09:49:13.930Z - success: builder loaded
-2018-09-07T09:49:13.934Z - success: cocos-analytics loaded
-2018-09-07T09:49:13.941Z - success: console loaded
-2018-09-07T09:49:13.996Z - success: fb-instant-games loaded
-2018-09-07T09:49:14.003Z - success: hierarchy loaded
-2018-09-07T09:49:14.007Z - success: inspector loaded
-2018-09-07T09:49:14.010Z - success: keystore loaded
-2018-09-07T09:49:14.017Z - success: node-library loaded
-2018-09-07T09:49:14.020Z - success: package-asset loaded
-2018-09-07T09:49:14.023Z - success: preferences loaded
-2018-09-07T09:49:14.025Z - success: project-exporter loaded
-2018-09-07T09:49:14.049Z - success: project-importer loaded
-2018-09-07T09:49:14.052Z - success: project-settings loaded
-2018-09-07T09:49:14.056Z - success: ui-kit loaded
-2018-09-07T09:49:14.059Z - success: scene loaded
-2018-09-07T09:49:14.061Z - success: sprite-editor loaded
-2018-09-07T09:49:14.065Z - success: store loaded
-2018-09-07T09:49:14.069Z - success: timeline loaded
-2018-09-07T09:49:14.070Z - normal: Loading builtin packages
-2018-09-07T09:49:14.074Z - success: asset-db-debugger loaded
-2018-09-07T09:49:14.076Z - success: code-editor loaded
-2018-09-07T09:49:14.077Z - success: color-picker loaded
-2018-09-07T09:49:14.077Z - success: jsb-adapter loaded
-2018-09-07T09:49:14.080Z - success: package-manager loaded
-2018-09-07T09:49:14.216Z - success: qqplay-adapter loaded
-2018-09-07T09:49:14.222Z - success: sdkbox loaded
-2018-09-07T09:49:14.226Z - success: tester loaded
-2018-09-07T09:49:14.229Z - success: ui-grid loaded
-2018-09-07T09:49:14.231Z - success: ui-kit-preview-extra loaded
-2018-09-07T09:49:14.234Z - success: ui-kit-preview loaded
-2018-09-07T09:49:14.236Z - success: ui-tree loaded
-2018-09-07T09:49:14.237Z - success: weapp-adapter loaded
-2018-09-07T09:49:15.783Z - normal: Loading packages
-2018-09-07T09:49:15.790Z - normal: Watching packages
-2018-09-07T09:49:16.650Z - normal: Run Application
-2018-09-07T09:49:17.748Z - success: preview server running at http://localhost:7456
-2018-09-07T09:50:21.169Z - error: animation not added or already removed
-    at Object.cc.errorID (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:166:16)
-    at AnimationAnimator.p.removeAnimation (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-animator.js:72:20)
-    at AnimationState.proto.onStop (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-state.js:107:31)
-    at AnimationState.prototype.stop (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\playable.js:52:22)
-    at AnimationState.process [as _process] (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-state.js:145:22)
-    at AnimationState.proto.update (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-state.js:189:18)
-    at CCClass.update (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-manager.js:28:30)
-    at cc.Scheduler.update (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCScheduler.js:262:38)
-    at cc.Director.mainLoop.CC_EDITOR._purgeDirectorInNextLoop [as mainLoop] (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCDirector.js:435:41)
-2018-09-07T09:51:33.933Z - error: animation not added or already removed
-    at Object.cc.errorID (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:166:16)
-    at AnimationAnimator.p.removeAnimation (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-animator.js:72:20)
-    at AnimationState.proto.onStop (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-state.js:107:31)
-    at AnimationState.prototype.stop (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\playable.js:52:22)
-    at AnimationState.process [as _process] (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-state.js:145:22)
-    at AnimationState.proto.update (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-state.js:189:18)
-    at CCClass.update (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-manager.js:28:30)
-    at cc.Scheduler.update (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCScheduler.js:262:38)
-    at cc.Director.mainLoop.CC_EDITOR._purgeDirectorInNextLoop [as mainLoop] (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCDirector.js:435:41)
-2018-09-07T09:52:39.133Z - error: animation not added or already removed
-    at Object.cc.errorID (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:166:16)
-    at AnimationAnimator.p.removeAnimation (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-animator.js:72:20)
-    at AnimationState.proto.onStop (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-state.js:107:31)
-    at AnimationState.prototype.stop (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\playable.js:52:22)
-    at AnimationState.process [as _process] (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-state.js:145:22)
-    at AnimationState.proto.update (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-state.js:189:18)
-    at CCClass.update (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-manager.js:28:30)
-    at cc.Scheduler.update (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCScheduler.js:262:38)
-    at cc.Director.mainLoop.CC_EDITOR._purgeDirectorInNextLoop [as mainLoop] (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCDirector.js:435:41)
+2018-09-10T03:03:40.628Z - normal: Load ~/.CocosCreator/settings.json
+2018-09-10T03:03:40.636Z - normal: checking language setting...
+2018-09-10T03:03:40.636Z - normal: Language: zh
+2018-09-10T03:03:42.737Z - success: protocol editor-framework registered
+2018-09-10T03:03:42.737Z - success: protocol app registered
+2018-09-10T03:03:42.737Z - success: protocol theme registered
+2018-09-10T03:03:42.737Z - success: protocol packages registered
+2018-09-10T03:03:42.737Z - success: protocol unpack registerred
+2018-09-10T03:03:42.737Z - success: protocol disable-commonjs registerred
+2018-09-10T03:03:42.848Z - normal: connected!
+2018-09-10T03:03:42.865Z - normal: Check project D:\program\game\demo1\start_project
+2018-09-10T03:03:42.865Z - normal: Initializing project D:\program\game\demo1\start_project
+2018-09-10T03:03:42.865Z - normal: Initializing Cocos2d
+2018-09-10T03:03:44.051Z - normal: Initializing Asset Database
+2018-09-10T03:03:44.116Z - success: protocol uuid registerred
+2018-09-10T03:03:44.116Z - success: protocol db registerred
+2018-09-10T03:03:44.116Z - success: protocol thumbnail registerred
+2018-09-10T03:03:44.116Z - normal: Loading editor/builtin packages
+2018-09-10T03:03:44.328Z - success: assets loaded
+2018-09-10T03:03:44.343Z - success: builder loaded
+2018-09-10T03:03:44.343Z - success: cocos-analytics loaded
+2018-09-10T03:03:44.343Z - success: console loaded
+2018-09-10T03:03:44.405Z - success: fb-instant-games loaded
+2018-09-10T03:03:44.411Z - success: hierarchy loaded
+2018-09-10T03:03:44.414Z - success: inspector loaded
+2018-09-10T03:03:44.414Z - success: keystore loaded
+2018-09-10T03:03:44.414Z - success: node-library loaded
+2018-09-10T03:03:44.414Z - success: package-asset loaded
+2018-09-10T03:03:44.414Z - success: preferences loaded
+2018-09-10T03:03:44.430Z - success: project-exporter loaded
+2018-09-10T03:03:44.445Z - success: project-importer loaded
+2018-09-10T03:03:44.445Z - success: project-settings loaded
+2018-09-10T03:03:44.445Z - success: ui-kit loaded
+2018-09-10T03:03:44.464Z - success: scene loaded
+2018-09-10T03:03:44.466Z - success: sprite-editor loaded
+2018-09-10T03:03:44.469Z - success: store loaded
+2018-09-10T03:03:44.469Z - success: timeline loaded
+2018-09-10T03:03:44.469Z - normal: Loading builtin packages
+2018-09-10T03:03:44.485Z - success: asset-db-debugger loaded
+2018-09-10T03:03:44.485Z - success: code-editor loaded
+2018-09-10T03:03:44.485Z - success: color-picker loaded
+2018-09-10T03:03:44.485Z - success: jsb-adapter loaded
+2018-09-10T03:03:44.485Z - success: package-manager loaded
+2018-09-10T03:03:44.682Z - success: qqplay-adapter loaded
+2018-09-10T03:03:44.698Z - success: sdkbox loaded
+2018-09-10T03:03:44.698Z - success: tester loaded
+2018-09-10T03:03:44.698Z - success: ui-grid loaded
+2018-09-10T03:03:44.698Z - success: ui-kit-preview-extra loaded
+2018-09-10T03:03:44.714Z - success: ui-kit-preview loaded
+2018-09-10T03:03:44.714Z - success: ui-tree loaded
+2018-09-10T03:03:44.714Z - success: weapp-adapter loaded
+2018-09-10T03:03:46.364Z - normal: Loading packages
+2018-09-10T03:03:46.364Z - normal: Watching packages
+2018-09-10T03:03:47.007Z - normal: Run Application
+2018-09-10T03:03:48.250Z - success: preview server running at http://localhost:7456
+2018-09-18T01:25:33.990Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:1028115
+2018-09-18T03:30:33.510Z - info: shutdown preview server
